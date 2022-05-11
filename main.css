@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 
+
 html {
     background: #8B1E3F;
      
@@ -20,9 +21,7 @@ body {
     
 }
 
-
-
-    
+   
 
 
 section{
@@ -136,7 +135,7 @@ input.invalid {
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+  display: inline-flex;
 }
 
 /* Next & previous buttons */
@@ -212,3 +211,5 @@ input.invalid {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+ */
