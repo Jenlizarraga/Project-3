@@ -17,55 +17,12 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     line-height: 1.5;
+
   
     
 }
 
    
-
-
-section{
-    background-color:#F0C987;
-
-}
-
-
-section#info {
-}
-
-
-
-
-
-#mainMenu {
-    list-style-type: none;
-    margin:0;
-	padding: 0;
-	 overflow: hidden;
-    background-color: #333;
-    
-}
-#mainMenu li {
-	display:block;
-	width:auto;
-	float:left;
-	margin-left:2px;
-	border-right:1px solid #bbb;
-}
-
-#mainMenu a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-#mainMenu a:hover {
-	background-color:#009;
-	color:#fff;
-}
-
 
 
 footer {
@@ -201,15 +158,5 @@ input.invalid {
   background-color: #717171;
 }
 
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
 
  
